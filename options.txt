@@ -244,7 +244,7 @@ key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.ad_astra.toggle_suit_flight:key.keyboard.v
 key_key.ad_astra.open_radio:key.keyboard.r
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0978378080985917
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
