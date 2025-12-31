@@ -1,0 +1,45 @@
+[2025-12-31 18:12:54.803] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2025-12-31 18:12:54.806] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, local\crash_assistant\2400_1767168765827_app.jar, -parentPID, 2400, -parentStarted, 1767168765827, -platform, FORGE, -loaderJarName, fmlloader-1.20.1-47.4.10.jar, -minecraftVersion, 1.20.1, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarName, CrashAssistant-forge-1.19-1.20.1-1.10.28.jar, -classPath, local\crash_assistant\2400_1767168765827_app.jar;local\crash_assistant\2400_1767168765827_mod.jar;C:\Users\ryanw\AppData\Roaming\ModrinthApp\meta\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\ryanw\AppData\Roaming\ModrinthApp\meta\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\ryanw\AppData\Roaming\ModrinthApp\meta\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\ryanw\AppData\Roaming\ModrinthApp\meta\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\ryanw\AppData\Roaming\ModrinthApp\meta\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\ryanw\AppData\Roaming\ModrinthApp\meta\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar, -parentXms, unknown, -parentXmx, 8000M, -systemRAM, 15.9g, -processor, MTN0aCBHZW4gSW50ZWwoUikgQ29yZShUTSkgaTUtMTM0MDBG, -serialisedGPUs, VnVsa2FuIEdQVSBkZXRlY3Rpb24gYWRkb24gbm90IGZvdW5kLCBmYWxsaW5nIGJhY2sgdG8gRGlyZWN0WApTdWNjZXNzZnVsbHkgZGV0ZWN0ZWQgR1BVcyB1c2luZyBEaXJlY3RYOgpERURJQ0FURUQgOiBOVklESUEgR2VGb3JjZSBSVFggNDA2MAoNCg==]
+[2025-12-31 18:12:54.807] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\ryanw\AppData\Roaming\ModrinthApp\profiles\WayFinder SMP - Client
+[2025-12-31 18:12:54.807] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-forge-1.19-1.20.1-1.10.28.jar
+[2025-12-31 18:12:54.808] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 2400
+[2025-12-31 18:12:54.808] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1767168765827
+[2025-12-31 18:12:54.809] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: FORGE
+[2025-12-31 18:12:54.809] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: fmlloader-1.20.1-47.4.10.jar
+[2025-12-31 18:12:54.809] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.20.1
+[2025-12-31 18:12:54.810] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2025-12-31 18:12:54.810] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXms: unknown
+[2025-12-31 18:12:54.810] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXmx: 8000M
+[2025-12-31 18:12:54.810] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: systemRAM: 15.9g
+[2025-12-31 18:12:54.810] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: processor: 13th Gen Intel(R) Core(TM) i5-13400F
+[2025-12-31 18:12:54.810] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+Vulkan GPU detection addon not found, falling back to DirectX
+Successfully detected GPUs using DirectX:
+DEDICATED : NVIDIA GeForce RTX 4060
+
+
+[2025-12-31 18:12:54.812] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: os.name: windows 11
+[2025-12-31 18:12:54.815] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\ryanw\AppData\Roaming\ModrinthApp\meta\java_versions\zulu17.60.17-ca-jre17.0.16-win_x64\bin\javaw.exe
+[2025-12-31 18:12:54.815] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 17.0.16+8-LTS
+[2025-12-31 18:12:54.831] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 2400 to stop.
+[2025-12-31 18:13:25.302] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
+NVIDIA GeForce RTX 4060/PCIe/SSE2
+[2025-12-31 18:19:46.106] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "2400" is not alive or reused by another process. Minecraft JVM appears to have stopped.
+[2025-12-31 18:19:46.162] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\ryanw\AppData\Roaming\ModrinthApp\profiles\WayFinder SMP - Client\logs\latest.log
+[2025-12-31 18:19:46.164] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: stderr_stream.log size: 21370 bytes
+[2025-12-31 18:19:46.183] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding stderr_stream.log from C:\Users\ryanw\AppData\Roaming\ModrinthApp\profiles\WayFinder SMP - Client\logs\stderr_stream.log
+[2025-12-31 18:19:46.185] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding launcher_log.txt from C:\Users\ryanw\AppData\Roaming\ModrinthApp\profiles\WayFinder SMP - Client\logs\launcher_log.txt
+[2025-12-31 18:19:46.205] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding session_20251231_142209.log from C:\Users\ryanw\AppData\Roaming\ModrinthApp\profiles\WayFinder SMP - Client\..\..\launcher_logs\session_20251231_142209.log
+[2025-12-31 18:19:46.211] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: client.log from C:\Users\ryanw\AppData\Roaming\ModrinthApp\profiles\WayFinder SMP - Client\logs\kubejs\client.log
+[2025-12-31 18:19:46.214] [WARN] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: File "logs\kubejs\server.log" is empty.
+[2025-12-31 18:19:46.216] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: startup.log from C:\Users\ryanw\AppData\Roaming\ModrinthApp\profiles\WayFinder SMP - Client\logs\kubejs\startup.log
+[2025-12-31 18:19:46.220] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\ryanw\AppData\Roaming\ModrinthApp\profiles\WayFinder SMP - Client\logs\crash_assistant\crash_assistant_app.log
+[2025-12-31 18:19:46.220] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: true
+[2025-12-31 18:19:46.221] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: false
+[2025-12-31 18:19:46.221] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: stop() function of Minecraft fired: true
+[2025-12-31 18:19:46.221] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: close() function of Minecraft failed: false
+[2025-12-31 18:19:46.222] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: emergencySave() function of Minecraft fired: false
+[2025-12-31 18:19:46.228] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isModpackCreator: true
+[2025-12-31 18:19:46.231] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isHelpLinkDefault: true
+[2025-12-31 18:19:46.232] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: helpLink: https://discord.minecraftforge.net
+[2025-12-31 18:19:46.233] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Trying to locate terminated processes and Exiting Crash Assistant app.
